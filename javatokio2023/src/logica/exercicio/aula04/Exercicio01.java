@@ -7,7 +7,7 @@ public class Exercicio01 {
 
 		Scanner entrada = new Scanner(System.in);
 
-		System.out.print("Digite seu nome: ");
+		System.out.print("Digite seu nome:");
 		String nome = entrada.nextLine();
 
 		System.out.print("Digite sua idade:");

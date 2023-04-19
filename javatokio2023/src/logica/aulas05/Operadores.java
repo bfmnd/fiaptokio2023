@@ -4,8 +4,8 @@ public class Operadores {
 
 	public static void main(String[] args) {
 
-		int num1 = 5;
-		int num2 = 2;
+		float num1 = 7;
+		float num2 = 9;
 		
 		float soma = num1 + num2;
 		System.out.println(soma);
@@ -18,6 +18,33 @@ public class Operadores {
 		
 		float mult = num1 * num2;
 		System.out.println(mult);
+		
+		System.out.println(" ");
+		   
+		// operadores unários
+		
+		int numero = 15;
+		System.out.println (numero);
+		
+		
+	
+		// numero++;
+		System.out.println(++numero);
+		System.out.println(numero++);
+		System.out.println(numero);
+		System.out.println(numero+1);
+		System.out.println(numero);
+		
+		
+		// operador de atribuição
+		
+		int number = 5;
+		number += 5;
+		System.out.println(number);
+		
+		number -= 2;
+		System.out.println(number);
+	
 		
 	}
 
