@@ -2,7 +2,7 @@ package logica.aulas05;
 
 import java.util.Scanner;
 
-public class Tipos {
+p	'ublic class Tipos {
 
 	public static void main(String[] args) {
 
